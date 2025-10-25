@@ -14,7 +14,7 @@ A collection of PySide6-based tools designed for Autodesk Maya workflows with an
 
 ## Installation
 
-1. [Click Here to Download ManifoldM](https://github.com/manifoldmindedmendit/manifoldm/releases/download/v0.1.0/manifoldm-0.1.0.zip)
+1. [Click Here to Download ManifoldM](https://github.com/manifold-minded/manifoldm/releases/download/v0.1.0/manifoldm-0.1.0.zip)
 2. Extract the contents to:
     - Windows: "C:/Users/{username}/maya/scripts/"
     - macOS: "/Users/{username}/Library/Preferences/Autodesk/maya/scripts/"
