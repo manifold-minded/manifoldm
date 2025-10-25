@@ -32,11 +32,12 @@ You can also add the following snippets to a Maya shelf button for quick access:
 
 ```python
 from tools.orienter import OrienterWidget; OrienterWidget.show_dialog()
-
+```
+```python
 from tools.colorizer import ColorizerWidget; ColorizerWidget.show_dialog()
 ```
 
-Alternatively, pressing Shift+Right-Click on the selected toolbar will create a new shelf button for each tool.
+Alternatively, pressing Ctrl+Shift+Left-Click on the selected tool will create a new shelf button.
 
 
 ## Notes
