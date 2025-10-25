@@ -1,6 +1,6 @@
 # ManifoldM
 
-A collection of PySide6-based tools designed for Autodesk Maya workflows with an intuitive user interface. (Work in progress)
+A collection of PySide6-based tools designed for Autodesk Maya workflows.
 
 ## Tools Included
 - Orienter: interactively orient joints with control over Aim/Up axes, world-up
@@ -8,6 +8,8 @@ A collection of PySide6-based tools designed for Autodesk Maya workflows with an
   visibility control for selected or all joints in the scene.
 - Colorizer: apply viewport override index colors to selected shape
   nodes, and mesh id color vertex generator.
+- Polyporter: import and export polygons between Maya and ZBrush. (Work in progress)
+- ...and more to come!
 
 ## Requirements
 - Autodesk Maya 2025 or later.
