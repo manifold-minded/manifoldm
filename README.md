@@ -7,7 +7,7 @@ A collection of PySide6-based tools designed for Autodesk Maya workflows.
   direction, auto-orient secondary axis, manual tweaks and
   visibility control for selected or all joints in the scene.
 - Colorizer: apply viewport override index colors to selected shape
-  nodes, and mesh id color vertex generator.
+  nodes, and vertex colors for mesh id used in Substance Painter.
 - Polyporter: import and export polygons between Maya and ZBrush. (Work in progress)
 - ...and more to come!
 
