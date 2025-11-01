@@ -1,4 +1,4 @@
-# ManifoldM
+# ManifoldM(aya)
 
 A collection of PySide6-based tools designed for Autodesk Maya workflows.
 
